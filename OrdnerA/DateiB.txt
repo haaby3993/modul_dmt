@@ -1,1 +1,3 @@
 Hallo, hier ist die DateiB
+
+Diese Datei ist nun im "newBranch" editiert worden
